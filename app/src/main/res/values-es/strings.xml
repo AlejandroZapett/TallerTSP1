@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="label_name">Nombre</string>
+    <string name="label_name_p">Nombre: </string>
+    <string name="label_apellidos">Apellidos</string>
+    <string name="label_apellidos_p">Apellidos:</string>
+    <string name="label_correo">Correo</string>
+    <string name="label_correo_p">Correo: </string>
+    <string name="label_num_cuenta">Número de cuenta</string>
+    <string name="label_num_cuenta_p">Número de cuenta: </string>
+    <string name="label_facultad">Facultad</string>
+    <string name="label_hombre">Hombre</string>
+    <string name="label_mujer">Mujer</string>
+    <string name="label_registrar">Registrar</string>
+    <string name="label_reg_alum">Registro de alumnos</string>
+    <string name="error_campo_obligatorio">campo obligatorio</string>
+    <string name="error_num_cuenta">numero de cuenta no válido</string>
+</resources>

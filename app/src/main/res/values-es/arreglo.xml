@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+        <item>Arquitectura</item>
+        <item>Ingeniería</item>
+        <item>Derecho</item>
+        <item>Medicina</item>
+        <item>Filosofía</item>
+    </string-array>
+</resources>

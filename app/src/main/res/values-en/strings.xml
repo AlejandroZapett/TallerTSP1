@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise 1</string>
+    <string name="label_name">Name</string>
+    <string name="label_name_p">Name: </string>
+    <string name="label_apellidos">Last name</string>
+    <string name="label_apellidos_p">Last name:</string>
+    <string name="label_correo">Email</string>
+    <string name="label_correo_p">Email: </string>
+    <string name="label_num_cuenta">Account number</string>
+    <string name="label_num_cuenta_p">Account number: </string>
+    <string name="label_facultad">Faculty</string>
+    <string name="label_hombre">Man</string>
+    <string name="label_mujer">Woman</string>
+    <string name="label_registrar">Register</string>
+    <string name="label_reg_alum">Student register</string>
+    <string name="error_campo_obligatorio">mandatory field</string>
+    <string name="error_num_cuenta">Account number isn`t valid</string>
+</resources>
